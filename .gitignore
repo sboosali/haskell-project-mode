@@ -1,0 +1,41 @@
+# my
+ignore/
+enumerate/sources/Data/Canonical.hs
+
+# Haskell
+cabal.project.local
+*.local
+.ghc.environment.*
+dist-newstyle/
+dist/
+.stack-work/
+cabal-dev/
+*.o
+*.hi
+*.chi
+*.chs.h
+.virtualenv
+.hsenv
+.cabal-sandbox/
+cabal.sandbox.config
+cabal.config
+report.html
+.styx/
+ghcid.txt
+
+# Emacs
+\#*
+*~
+.#*
+\#*\#
+*.log
+TAGS
+.projectile
+
+# Nix
+result/
+result
+result-*/
+
+# OS X
+.DS_Store
